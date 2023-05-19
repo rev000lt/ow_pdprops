@@ -9,3 +9,7 @@ Ox_target / https://github.com/overextended/ox_target
 **Showcase:**
 
 ![image](https://github.com/freezy-x/freezy_pdprops/assets/88281160/08ee87ae-693b-4be3-bcc1-6219836490b7)
+![image](https://github.com/freezy-x/freezy_pdprops/assets/88281160/7c4795f8-b184-49b0-ba19-36fe6141f1de)
+![image](https://github.com/freezy-x/freezy_pdprops/assets/88281160/7527630d-bc0f-49d3-85f1-42a17b584a57)
+![image](https://github.com/freezy-x/freezy_pdprops/assets/88281160/3ff035f6-8705-4ec6-9da2-25c59fdf2453)
+![Uploading image.png…]()
